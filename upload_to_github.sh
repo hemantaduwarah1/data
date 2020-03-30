@@ -1,5 +1,7 @@
+#!/bin/bash
 date +"%T" >> /home/hemanta/perl/Extract_corona_data/upload.log
-perl ../save_webpage.pl
+/home/hemanta/perl/Extract_corona_data/perl ../save_webpage.pl
+cd /home/hemanta/perl/Extract_corona_data/data/
 git add .
 git commit -m "update"
 git push -u origin master
