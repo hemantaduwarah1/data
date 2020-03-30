@@ -6,4 +6,4 @@ git add .
 git commit -m "update"
 git push -u origin master
 echo "Upload Done" >> /home/hemanta/perl/Extract_corona_data/upload.log
-spd-say "uploaded new data to git hub"
+spd-say "done"
