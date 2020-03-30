@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 date +"%T" >> /home/hemanta/perl/Extract_corona_data/upload.log
 perl /home/hemanta/perl/Extract_corona_data/save_webpage.pl
 cd /home/hemanta/perl/Extract_corona_data/data/
