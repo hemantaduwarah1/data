@@ -1,4 +1,4 @@
-Sun Apr  5 09:30:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
+Sun Apr  5 10:00:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 Country  Other,Total Cases,New Cases,Total Deceased,New Deceased,Total Recovered,Active Cases,Serious  Critical,Tot&nbsp Cases 1M pop,Deaths 1M pop,Total Tests,,,111
 USA,311635,278,8454,2,14825,288356,8206,941,26,1632955,4933,,111
 Spain,126168,,11947,,34219,80002,6532,2699,256,355000,7593,,111
@@ -147,9 +147,9 @@ Bermuda,37,,,,14,23,,594,,291,4673,,111
 CaymanIslands,35,,1,,1,33,,533,15,319,4854,,111
 Eritrea,29,,,,,29,,8,,,,,111
 Bahamas,28,,4,,,24,1,71,10,,,,111
+SintMaarten,25,2,4,,6,15,,583,93,82,1912,,111
 Guyana,24,1,4,,,20,,31,5,93,118,,111
 SaintMartin,24,,2,,5,17,6,621,52,18,466,,111
-SintMaarten,23,,4,,6,13,,536,93,82,1912,,111
 Congo,22,,2,,2,18,,4,0.4,,,,111
 Gabon,21,,1,,1,19,,9,0.4,,,,111
 Myanmar,21,,1,,,20,,0.4,0.02,,,,111
@@ -208,4 +208,4 @@ CaribbeanNetherlands,2,,,,,2,,76,,10,381,,111
 FalklandIslands,1,,,,,1,,287,,,,,111
 PapuaNewGuinea,1,,,,,1,,0.1,,72,8,,111
 Timor-Leste,1,,,,,1,,0.8,,,,,111
-Total:,1202433,990,64729,41,246638,891066,42290,154.3,8.3,,,,111
+Total:,1202435,992,64729,41,246638,891068,42290,154.3,8.3,,,,111
