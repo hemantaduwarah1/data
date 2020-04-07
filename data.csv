@@ -1,6 +1,6 @@
-Tue Apr  7 08:00:02 ,Recovered,Cases,Critical,1M pop,1M pop,111
+Tue Apr  7 08:30:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 Country  Other,Total Cases,New Cases,Total Deceased,New Deceased,Total Recovered,Active Cases,Serious  Critical,Tot&nbsp Cases 1M pop,Deaths 1M pop,Total Tests,,,111
-USA,367004,,10871,,19671,336462,8879,1109,33,1914540,5784,,111
+USA,367385,381,10876,5,19671,336838,8879,1110,33,1914540,5784,,111
 Spain,136675,,13341,,40437,82897,6931,2923,285,355000,7593,,111
 Italy,132547,,16523,,22837,93187,3898,2192,273,721732,11937,,111
 Germany,103375,,1810,,28700,72865,4895,1234,22,918460,10962,,111
@@ -211,4 +211,4 @@ PapuaNewGuinea,2,,,,,2,,0.2,,72,8,,111
 SaintPierreMiquelon,1,,,,,1,,173,,,,,111
 SouthSudan,1,,,,,1,,0.09,,,,,111
 Timor-Leste,1,,,,,1,,0.8,,,,,111
-Total:,1346566,562,74697,43,278695,993174,47256,172.8,9.6,,,,111
+Total:,1346947,943,74702,48,278695,993550,47256,172.8,9.6,,,,111
