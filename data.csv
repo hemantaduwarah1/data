@@ -1,4 +1,4 @@
-Sun Apr 19 10:30:02 ,Recovered,Cases,Critical,1M pop,1M pop,111
+Sun Apr 19 11:00:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 //source[iColIndex]=isthecellvalue(DATATHATNEEDSTOBESORTED,    .main_table_countries th>* {,,111
 Country  Other,Total Cases,New Cases,Total Deceased,New Deceased,Total Recovered,Active Cases,Serious  Critical,Tot&nbsp Cases 1M pop,Deaths 1M pop,Total Tests,,Continent,,111
 USA,738913,121,39015,1,68285,631613,13551,2232,118,3722209,11245,NorthAmerica,,111
@@ -30,11 +30,11 @@ Ecuador,9022,,456,,1008,7558,168,511,26,30922,1753,SouthAmerica,,111
 Poland,8742,,347,,981,7414,160,231,9,192960,5098,Europe,,111
 Romania,8418,,421,,1730,6267,248,438,22,90991,4730,Europe,,111
 SaudiArabia,8274,,92,,1329,6853,78,238,3,150000,4309,Asia,,111
-Pakistan,7638,,143,,1832,5663,46,35,0.6,92548,419,Asia,,111
+Pakistan,7993,355,159,16,1868,5966,46,36,0.7,98522,446,Asia,,111
 Mexico,7497,622,650,104,2627,4220,207,58,5,49167,381,NorthAmerica,,111
 Denmark,7242,,346,,3847,3049,76,1250,60,91437,15786,Europe,,111
 Norway,7069,33,164,,32,6873,63,1304,30,139668,25763,Europe,,111
-Czechia,6606,,181,,1227,5198,86,617,17,162533,15177,Europe,,111
+Czechia,6654,48,181,,1227,5246,86,621,17,162533,15177,Europe,,111
 Australia,6586,,70,,4167,2349,55,258,3,406510,15942,Australia/Oceania,,111
 UAE,6302,,37,,1188,5077,1,637,4,767000,77550,Asia,,111
 Indonesia,6248,,535,,631,5082,,23,2,39422,144,Asia,,111
@@ -81,7 +81,7 @@ HongKong,1024,,4,,568,452,9,137,0.5,131786,17579,Asia,,111
 Cameroon,1017,,42,,305,670,33,38,2,,,Africa,,111
 Cuba,986,,32,,227,727,15,87,3,25309,2234,NorthAmerica,,111
 Afghanistan,933,,30,,112,791,,24,0.8,,,Asia,,111
-Bulgaria,878,,41,,153,684,35,126,6,26417,3802,Europe,,111
+Bulgaria,884,6,42,1,161,681,35,127,6,26417,3802,Europe,,111
 Tunisia,866,,37,,43,786,33,73,3,14640,1239,Africa,,111
 Ghana,834,,9,,99,726,4,27,0.3,60916,1960,Africa,,111
 IvoryCoast,801,,8,,239,554,,30,0.3,,,Africa,,111
@@ -122,7 +122,7 @@ Mayotte,254,,4,,117,133,6,931,15,1800,6598,Africa,,111
 Venezuela,227,,9,,117,101,4,8,0.3,299714,10540,SouthAmerica,,111
 Mali,216,,13,,41,162,,11,0.6,,,Africa,,111
 Paraguay,206,4,8,,41,157,1,29,1,4950,694,SouthAmerica,,111
-ElSalvador,190,,7,,43,140,1,29,1,10191,1571,NorthAmerica,,111
+ElSalvador,201,11,7,,44,150,1,31,1,11160,1721,NorthAmerica,,111
 FaeroeIslands,184,,,,173,11,,3766,,5981,122403,Europe,,111
 Jamaica,173,10,5,,25,143,,58,2,1605,542,NorthAmerica,,111
 Martinique,163,,12,,73,78,11,434,32,,,NorthAmerica,,111
@@ -203,4 +203,4 @@ Bhutan,5,,,,2,3,,6,,8107,10507,Asia,,111
 SaoTomeandPrincipe,4,,,,,4,,18,,19,87,Africa,,111
 SouthSudan,4,,,,,4,,0.4,,,,Africa,,111
 CaribbeanNetherlands,3,,,,,3,,114,,10,381,NorthAmerica,,111
-Total:,2332036,1243,160767,124,599961,1571308,55280,299.2,20.6,,,All,,111
+Total:,2332456,1663,160784,141,600006,1571666,55280,299.2,20.6,,,All,,111
