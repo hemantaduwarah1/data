@@ -1,7 +1,7 @@
-Sun Apr 19 11:00:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
+Sun Apr 19 11:30:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 //source[iColIndex]=isthecellvalue(DATATHATNEEDSTOBESORTED,    .main_table_countries th>* {,,111
 Country  Other,Total Cases,New Cases,Total Deceased,New Deceased,Total Recovered,Active Cases,Serious  Critical,Tot&nbsp Cases 1M pop,Deaths 1M pop,Total Tests,,Continent,,111
-USA,738913,121,39015,1,68285,631613,13551,2232,118,3722209,11245,NorthAmerica,,111
+USA,738923,131,39015,1,68285,631623,13551,2232,118,3722209,11245,NorthAmerica,,111
 Spain,194416,,20639,,74797,98980,7371,4158,441,930230,19896,Europe,,111
 Italy,175925,,23227,,44927,107771,2733,2910,384,1305833,21598,Europe,,111
 France,151793,,19323,,35983,96487,5833,2325,296,463662,7103,Europe,,111
@@ -67,7 +67,7 @@ Kuwait,1751,,6,,280,1465,34,410,1,,,Asia,,111
 Kazakhstan,1615,,17,,377,1221,22,86,0.9,100878,5373,Asia,,111
 Iraq,1513,,82,,953,478,,38,2,53955,1341,Asia,,111
 Estonia,1512,,38,,162,1312,11,1140,29,39605,29856,Europe,,111
-Uzbekistan,1490,,5,,194,1291,8,45,0.1,136000,4063,Asia,,111
+Uzbekistan,1495,5,5,,194,1296,8,45,0.1,136000,4063,Asia,,111
 NewZealand,1431,9,12,1,912,507,18,297,2,83224,17258,Australia/Oceania,,111
 Azerbaijan,1373,,18,,590,765,21,135,2,86607,8542,Asia,,111
 Slovenia,1317,,70,,190,1057,27,633,34,40580,19520,Europe,,111
@@ -203,4 +203,4 @@ Bhutan,5,,,,2,3,,6,,8107,10507,Asia,,111
 SaoTomeandPrincipe,4,,,,,4,,18,,19,87,Africa,,111
 SouthSudan,4,,,,,4,,0.4,,,,Africa,,111
 CaribbeanNetherlands,3,,,,,3,,114,,10,381,NorthAmerica,,111
-Total:,2332456,1663,160784,141,600006,1571666,55280,299.2,20.6,,,All,,111
+Total:,2332471,1678,160784,141,600006,1571681,55280,299.2,20.6,,,All,,111
