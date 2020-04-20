@@ -1,4 +1,4 @@
-Mon Apr 20 11:00:02 ,Recovered,Cases,Critical,1M pop,1M pop,111
+Mon Apr 20 11:30:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 //source[iColIndex]=isthecellvalue(DATATHATNEEDSTOBESORTED,    .main_table_countries th>* {,,111
 Country  Other,Total Cases,New Cases,Total Deceased,New Deceased,Total Recovered,Active Cases,Serious  Critical,Tot&nbsp Cases 1M pop,Deaths 1M pop,Total Tests,,Continent,,111
 USA,764265,,40565,,71012,652688,13566,2309,123,3861596,11666,NorthAmerica,,111
@@ -30,10 +30,10 @@ Ecuador,9468,,474,,1061,7933,124,537,27,31809,1803,SouthAmerica,,111
 SaudiArabia,9362,,97,,1398,7867,97,269,3,180000,5170,Asia,,111
 Poland,9287,,360,,1040,7887,160,245,10,204246,5397,Europe,,111
 Romania,8746,,451,,1892,6403,256,455,23,93611,4866,Europe,,111
-Pakistan,8348,,168,,1868,6312,46,38,0.8,98522,446,Asia,,111
+Pakistan,8418,70,176,8,1970,6272,46,38,0.8,104302,472,Asia,,111
 Mexico,8261,764,686,36,2627,4948,207,64,5,49570,384,NorthAmerica,,111
 Denmark,7384,,355,,4141,2888,84,1275,61,94277,16277,Europe,,111
-Norway,7078,,165,,32,6881,58,1306,30,142166,26224,Europe,,111
+Norway,7103,25,165,,32,6906,58,1310,30,142166,26224,Europe,,111
 UAE,6781,,41,,1286,5454,1,686,4,767000,77550,Asia,,111
 Czechia,6746,,186,,1298,5262,84,630,17,168096,15697,Europe,,111
 Australia,6612,,71,,4230,2311,48,259,3,420996,16510,Australia/Oceania,,111
@@ -204,4 +204,4 @@ Bhutan,5,,,,2,3,,6,,8107,10507,Asia,,111
 CaribbeanNetherlands,5,,,,,5,,191,,110,4195,NorthAmerica,,111
 SaoTomeandPrincipe,4,,,,,4,,18,,19,87,Africa,,111
 SouthSudan,4,,,,,4,,0.4,,,,Africa,,111
-Total:,2407467,892,165074,43,625202,1617191,54211,308.9,21.2,,,All,,111
+Total:,2407562,987,165082,51,625304,1617176,54211,308.9,21.2,,,All,,111
