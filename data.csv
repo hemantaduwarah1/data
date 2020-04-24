@@ -1,4 +1,4 @@
-Fri Apr 24 13:00:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
+Fri Apr 24 13:30:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 //source[iColIndex]=isthecellvalue(DATATHATNEEDSTOBESORTED,    .main_table_countries th>* {,,111
 Country  Other,Total Cases,New Cases,Total Deceased,New Deceased,Total Recovered,Active Cases,Serious  Critical,Tot&nbsp Cases 1M pop,Deaths 1M pop,Total Tests,,Continent,,111
 USA,886709,267,50243,7,85922,750544,14997,2679,152,4775625,14428,NorthAmerica,,111
@@ -10,7 +10,7 @@ China,82804,6,4632,,77257,915,57,58,3,,,Asia,,111
 UK,138078,,18738,,N/A,118996,1559,2034,276,583496,8595,Europe,,111
 Turkey,101790,,2491,,18491,80808,1816,1207,30,791906,9390,Asia,,111
 Iran,87026,,5481,,64843,16702,3105,1036,65,389507,4637,Asia,,111
-Russia,62773,,555,,4891,57327,2300,430,4,2401616,16457,Europe,,111
+Russia,68622,5849,615,60,5568,62439,2300,470,4,2550000,17474,Europe,,111
 Brazil,50036,544,3331,18,26573,20132,8318,235,16,291922,1373,SouthAmerica,,111
 Belgium,42797,,6490,,9800,26507,993,3693,560,179666,15502,Europe,,111
 Canada,42110,,2147,,14761,25202,557,1116,57,634917,16822,NorthAmerica,,111
@@ -65,12 +65,12 @@ Kazakhstan,2334,45,22,2,560,1752,29,124,1,153492,8175,Asia,,111
 Bahrain,2217,,8,,1082,1127,2,1303,5,100031,58787,Asia,,111
 Croatia,1981,,50,,883,1048,19,483,12,28853,7028,Europe,,111
 Iceland,1789,,10,,1509,270,5,5243,29,45093,132143,Europe,,111
-Uzbekistan,1778,20,7,,563,1208,8,53,0.2,210000,6274,Asia,,111
+Uzbekistan,1778,20,7,,582,1189,8,53,0.2,210000,6274,Asia,,111
 Oman,1716,,9,,307,1400,3,336,2,,,Asia,,111
 Iraq,1677,,83,,1171,423,,42,2,64882,1613,Asia,,111
+Armenia,1596,73,27,3,728,841,10,539,9,16552,5586,Asia,,111
 Estonia,1592,,45,,192,1355,7,1200,34,45181,34059,Europe,,111
 Azerbaijan,1548,,20,,948,580,14,153,2,108221,10674,Asia,,111
-Armenia,1523,,24,,659,840,10,514,8,15960,5386,Asia,,111
 NewZealand,1456,5,17,1,1095,344,1,302,4,108238,22446,Australia/Oceania,,111
 BosniaandHerzegovina,1413,,54,,485,874,4,431,16,21432,6533,Europe,,111
 Lithuania,1410,12,40,,430,940,17,518,15,90992,33425,Europe,,111
@@ -117,13 +117,13 @@ Mauritius,331,,9,,266,56,3,260,7,12835,10092,Africa,,111
 Somalia,328,,16,,8,304,2,21,1,,,Africa,,111
 Mayotte,326,,4,,125,197,4,1195,15,2100,7698,Africa,,111
 Kenya,320,,14,,89,217,2,6,0.3,14704,273,Africa,,111
-Montenegro,316,,5,,123,188,7,503,8,5085,8096,Europe,,111
+Montenegro,319,3,5,,123,191,7,508,8,5085,8096,Europe,,111
 Venezuela,311,13,10,,126,175,4,11,0.4,347236,12211,SouthAmerica,,111
 Mali,309,,21,,77,211,,15,1,2023,100,Africa,,111
 IsleofMan,307,,16,,221,70,20,3610,188,2674,31447,Europe,,111
 Tanzania,284,,10,,11,263,7,5,0.2,,,Africa,,111
 Vietnam,268,,,,225,43,8,3,,206253,2119,Asia,,111
-ElSalvador,261,11,8,,67,186,2,40,1,16418,2531,NorthAmerica,,111
+ElSalvador,261,11,8,,72,181,2,40,1,16418,2531,NorthAmerica,,111
 Jamaica,257,5,6,,28,223,,87,2,2213,747,NorthAmerica,,111
 Paraguay,220,7,9,,70,141,1,31,1,6917,970,SouthAmerica,,111
 FaeroeIslands,187,,,,178,9,,3827,,6458,132165,Europe,,111
@@ -138,7 +138,7 @@ Brunei,138,,1,,119,18,2,315,2,12430,28413,Asia,,111
 Gibraltar,133,,,,129,4,,3948,,2062,61203,Europe,,111
 Cambodia,122,,,,110,12,1,7,,5768,345,Asia,,111
 Madagascar,121,,,,58,63,1,4,,2357,85,Africa,,111
-Ethiopia,116,,3,,21,92,,1,0.03,10736,93,Africa,,111
+Ethiopia,117,1,3,,21,93,,1,0.03,10736,93,Africa,,111
 TrinidadandTobago,115,,8,,48,59,,82,6,1473,1053,NorthAmerica,,111
 Maldives,108,,,,16,92,2,200,,4696,8688,Asia,,111
 FrenchGuiana,107,,1,,84,22,1,358,3,,,SouthAmerica,,111
@@ -179,6 +179,7 @@ Timor-Leste,23,,,,1,22,,17,,322,244,Asia,,111
 Botswana,22,,1,,,21,,9,0.4,4432,1885,Africa,,111
 Laos,19,,,,4,15,,3,,1461,201,Asia,,111
 Belize,18,,2,,5,11,1,45,5,816,2052,NorthAmerica,,111
+Fiji,18,,,,10,8,,20,,900,1004,Australia/Oceania,,111
 NewCaledonia,18,,,,17,1,1,63,,3772,13212,Australia/Oceania,,111
 CAR,16,,,,10,6,,3,,,,Africa,,111
 Dominica,16,,,,9,7,,222,,377,5237,NorthAmerica,,111
@@ -207,4 +208,4 @@ CaribbeanNetherlands,5,,,,,5,,191,,110,4195,NorthAmerica,,111
 SouthSudan,5,1,,,,5,,0.4,,,,Africa,,111
 SaoTomeandPrincipe,4,,,,,4,,18,,19,87,Africa,,111
 Yemen,1,,,,1,0,,0.03,,120,4,Asia,,111
-Total:,2726776,3732,191087,168,750092,1785597,58727,349.8,24.5,,,All,,111
+Total:,2732702,9658,191150,231,750864,1790688,58727,350.6,24.5,,,All,,111
