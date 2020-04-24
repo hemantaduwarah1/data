@@ -1,4 +1,4 @@
-Fri Apr 24 09:00:02 ,Recovered,Cases,Critical,1M pop,1M pop,111
+Fri Apr 24 09:30:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 //source[iColIndex]=isthecellvalue(DATATHATNEEDSTOBESORTED,    .main_table_countries th>* {,,111
 Country  Other,Total Cases,New Cases,Total Deceased,New Deceased,Total Recovered,Active Cases,Serious  Critical,Tot&nbsp Cases 1M pop,Deaths 1M pop,Total Tests,,Continent,,111
 USA,886709,267,50243,7,85922,750544,14997,2679,152,4774828,14425,NorthAmerica,,111
@@ -99,9 +99,9 @@ Niger,671,,24,,256,391,,28,1.0,4832,200,Africa,,111
 Albania,663,,27,,385,251,4,230,9,6509,2262,Europe,,111
 Kyrgyzstan,631,,8,,302,321,11,97,1,39615,6072,Asia,,111
 BurkinaFaso,616,,41,,410,165,,29,2,,,Africa,,111
+Honduras,562,43,47,,31,484,10,57,5,2707,273,NorthAmerica,,111
 Uruguay,557,8,12,,354,191,10,160,3,15142,4359,SouthAmerica,,111
 ChannelIslands,521,,29,,295,197,,2997,167,3320,19095,Europe,,111
-Honduras,519,,47,,31,441,10,52,5,2535,256,NorthAmerica,,111
 SanMarino,501,,40,,63,398,3,14765,1179,1929,56851,Europe,,111
 Palestine,480,,4,,92,384,,94,0.8,27000,5293,Asia,,111
 Senegal,479,,6,,257,216,1,29,0.4,466,28,Africa,,111
@@ -125,7 +125,7 @@ Tanzania,284,,10,,11,263,7,5,0.2,,,Africa,,111
 Vietnam,268,,,,224,44,8,3,,206253,2119,Asia,,111
 Jamaica,257,5,6,,28,223,,87,2,2213,747,NorthAmerica,,111
 ElSalvador,250,,8,,67,175,2,39,1,15385,2372,NorthAmerica,,111
-Paraguay,213,,9,,67,137,1,30,1,6598,925,SouthAmerica,,111
+Paraguay,220,7,9,,70,141,1,31,1,6917,970,SouthAmerica,,111
 FaeroeIslands,187,,,,178,9,,3827,,6375,130467,Europe,,111
 Congo,186,,6,,16,164,,34,1,,,Africa,,111
 Sudan,174,12,16,3,14,144,,4,0.4,,,Africa,,111
@@ -168,7 +168,7 @@ Mozambique,46,,,,9,37,,1,,1325,42,Africa,,111
 Syria,42,,3,,6,33,,2,0.2,,,Asia,,111
 Eritrea,39,,,,6,33,,11,,,,Africa,,111
 SaintMartin,38,,2,,19,17,3,983,52,,,NorthAmerica,,111
-Mongolia,36,1,,,9,27,,11,,7156,2183,Asia,,111
+Mongolia,36,1,,,9,27,,11,,7234,2207,Asia,,111
 Malawi,33,,3,,3,27,1,2,0.2,519,27,Africa,,111
 Chad,33,,,,8,25,,2,,,,Africa,,111
 Eswatini,31,,1,,8,22,,27,0.9,714,615,Africa,,111
@@ -206,4 +206,5 @@ BritishVirginIslands,5,,1,,3,1,,165,33,,,NorthAmerica,,111
 CaribbeanNetherlands,5,,,,,5,,191,,110,4195,NorthAmerica,,111
 SouthSudan,5,1,,,,5,,0.4,,,,Africa,,111
 SaoTomeandPrincipe,4,,,,,4,,18,,19,87,Africa,,111
-Total:,2725391,2347,191055,136,745820,1788516,58678,349.6,24.5,,,All,,111
+Yemen,1,,,,1,0,,0.03,,120,4,Asia,,111
+Total:,2725441,2397,191055,136,745824,1788562,58678,349.6,24.5,,,All,,111
