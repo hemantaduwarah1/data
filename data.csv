@@ -1,4 +1,4 @@
-Sat Apr 25 10:30:03 ,Recovered,Cases,Critical,1M pop,1M pop,111
+Sat Apr 25 11:00:02 ,Recovered,Cases,Critical,1M pop,1M pop,111
 //source[iColIndex]=isthecellvalue(DATATHATNEEDSTOBESORTED,    .main_table_countries th>* {,,111
 Country  Other,Total Cases,New Cases,Total Deceased,New Deceased,Total Recovered,Active Cases,Serious  Critical,Tot&nbsp Cases 1M pop,Deaths 1M pop,Total Tests,,Continent,,111
 USA,925232,,52193,,110432,762607,15097,2795,158,5037473,15219,NorthAmerica,,111
@@ -61,8 +61,8 @@ Thailand,2907,53,51,1,2547,309,61,42,0.7,142589,2043,Asia,,111
 Kuwait,2614,,15,,613,1986,60,612,4,,,Asia,,111
 Bahrain,2518,,8,,1113,1397,1,1480,5,107273,63043,Asia,,111
 Greece,2490,,130,,577,1783,48,239,12,61407,5891,Europe,,111
+Hungary,2443,60,262,12,458,1723,61,253,27,60801,6294,Europe,,111
 Kazakhstan,2416,,25,,604,1787,29,129,1,153492,8175,Asia,,111
-Hungary,2383,,250,,401,1732,61,247,26,58251,6030,Europe,,111
 Croatia,2009,,51,,982,976,19,489,12,30213,7360,Europe,,111
 Uzbekistan,1804,,8,,621,1175,8,54,0.2,210000,6274,Asia,,111
 Oman,1790,,10,,325,1455,3,351,2,,,Asia,,111
@@ -81,7 +81,7 @@ Afghanistan,1351,,43,,188,1120,7,35,1,6422,165,Asia,,111
 NorthMacedonia,1326,,57,,337,932,14,636,27,13649,6551,Europe,,111
 Cuba,1285,,49,,416,820,11,113,4,36134,3190,NorthAmerica,,111
 Ghana,1279,,10,,134,1135,4,41,0.3,88188,2838,Africa,,111
-Bulgaria,1188,,54,,193,941,37,171,8,27000,3886,Europe,,111
+Bulgaria,1234,46,54,,197,983,37,178,8,27000,3886,Europe,,111
 Nigeria,1095,,32,,208,855,2,5,0.2,10061,49,Africa,,111
 IvoryCoast,1077,,14,,419,644,,41,0.5,,,Africa,,111
 HongKong,1036,,4,,725,307,7,138,0.5,131786,17579,Asia,,111
@@ -121,8 +121,8 @@ Mali,325,,21,,87,217,,16,1,2172,107,Africa,,111
 Montenegro,319,,6,,123,190,7,508,10,5085,8096,Europe,,111
 Venezuela,318,,10,,132,176,4,11,0.4,394125,13860,SouthAmerica,,111
 IsleofMan,308,,18,,230,60,20,3622,212,2751,32352,Europe,,111
+Tanzania,299,,10,,48,241,7,5,0.2,,,Africa,,111
 Jamaica,288,31,7,,28,253,,97,2,2518,850,NorthAmerica,,111
-Tanzania,284,,10,,48,226,7,5,0.2,,,Africa,,111
 Vietnam,270,,,,220,50,8,3,,206253,2119,Asia,,111
 ElSalvador,261,,8,,72,181,2,40,1,16418,2531,NorthAmerica,,111
 Paraguay,223,3,9,,78,136,1,31,1,6917,970,SouthAmerica,,111
@@ -208,4 +208,4 @@ CaribbeanNetherlands,5,,,,,5,,191,,110,4195,NorthAmerica,,111
 SouthSudan,5,,,,,5,,0.4,,,,Africa,,111
 SaoTomeandPrincipe,4,,,,,4,,18,,19,87,Africa,,111
 Yemen,1,,,,1,0,,0.03,,120,4,Asia,,111
-Total:,2831785,2974,197306,207,806953,1827526,58524,363.3,25.3,,,All,,111
+Total:,2831906,3080,197318,219,807014,1827574,58524,363.3,25.3,,,All,,111
