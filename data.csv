@@ -1,4 +1,4 @@
-Sat Apr 25 14:00:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
+Sat Apr 25 14:30:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 //source[iColIndex]=isthecellvalue(DATATHATNEEDSTOBESORTED,    .main_table_countries th>* {,,111
 Country  Other,Total Cases,New Cases,Total Deceased,New Deceased,Total Recovered,Active Cases,Serious  Critical,Tot&nbsp Cases 1M pop,Deaths 1M pop,Total Tests,,Continent,,111
 USA,925758,526,52217,24,110432,763109,15097,2797,158,5037473,15219,NorthAmerica,,111
@@ -47,8 +47,8 @@ Australia,6695,20,80,1,5372,1243,43,263,3,494257,19383,Australia/Oceania,,111
 DominicanRepublic,5749,,267,,763,4719,135,530,25,18261,1683,NorthAmerica,,111
 Malaysia,5742,51,98,2,3762,1882,36,177,3,121722,3761,Asia,,111
 Panama,5338,172,154,8,319,4865,87,1237,36,24304,5633,NorthAmerica,,111
+Bangladesh,4998,309,140,9,112,4746,1,30,0.9,39476,240,Asia,,111
 Colombia,4881,,225,,1003,3653,117,96,4,78078,1534,SouthAmerica,,111
-Bangladesh,4689,,131,,112,4446,1,28,0.8,39476,240,Asia,,111
 Finland,4395,,177,,2500,1718,61,793,32,74500,13446,Europe,,111
 SouthAfrica,4220,,79,,1473,2668,36,71,1,152390,2569,Africa,,111
 Egypt,4092,,294,,1075,2723,,40,3,90000,879,Africa,,111
@@ -111,8 +111,8 @@ Jordan,441,,7,,326,108,5,43,0.7,61608,6038,Asia,,111
 Guatemala,430,46,11,,30,389,5,24,0.6,7200,402,NorthAmerica,,111
 Taiwan,429,1,6,,275,148,,18,0.3,59840,2513,Asia,,111
 SriLanka,420,3,7,,116,297,2,20,0.3,13142,614,Asia,,111
+DRC,416,22,28,3,49,339,,5,0.3,,,Africa,,111
 R&eacuteunion,412,,,,300,112,2,460,,,,Africa,,111
-DRC,394,,25,,48,321,,4,0.3,,,Africa,,111
 Mayotte,354,,4,,144,206,4,1298,15,2200,8064,Africa,,111
 Kenya,336,,14,,94,228,2,6,0.3,16738,311,Africa,,111
 Mauritius,331,,9,,285,37,3,260,7,13374,10516,Africa,,111
@@ -208,4 +208,4 @@ CaribbeanNetherlands,5,,,,,5,,191,,110,4195,NorthAmerica,,111
 SouthSudan,5,,,,,5,,0.4,,,,Africa,,111
 SaoTomeandPrincipe,4,,,,,4,,18,,19,87,Africa,,111
 Yemen,1,,,,1,0,,0.03,,120,4,Asia,,111
-Total:,2834366,5540,197409,310,808023,1828934,58382,363.6,25.3,,,All,,111
+Total:,2834697,5871,197421,322,808024,1829252,58382,363.7,25.3,,,All,,111
