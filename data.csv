@@ -1,7 +1,7 @@
-Tue Apr 28 10:00:02 ,Recovered,Cases,Critical,1M pop,1M pop,111
+Tue Apr 28 10:30:02 ,Recovered,Cases,Critical,1M pop,1M pop,111
 //source[iColIndex]=isthecellvalue(DATATHATNEEDSTOBESORTED,    .main_table_countries th>* {,,111
 Country  Other,Total Cases,New Cases,Total Deceased,New Deceased,Total Recovered,Active Cases,Serious  Critical,Tot&nbsp Cases 1M pop,Deaths 1M pop,Total Tests,,Continent,,111
-USA,1010507,151,56803,6,138990,814714,14186,3053,172,5696928,17211,NorthAmerica,,111
+USA,1010507,151,56803,6,139162,814542,14186,3053,172,5696928,17211,NorthAmerica,,111
 Spain,229422,,23521,,120832,85069,7764,4907,503,1345560,28779,Europe,,111
 Italy,199414,,26977,,66624,105813,1956,3298,446,1789662,29600,Europe,,111
 France,165842,,23293,,45513,97036,4608,2541,357,463662,7103,Europe,,111
@@ -150,7 +150,7 @@ Aruba,100,,2,,73,25,4,937,19,1626,15230,NorthAmerica,,111
 Togo,99,1,6,,62,31,,12,0.7,6141,742,Africa,,111
 SierraLeone,99,,4,,10,85,,12,0.5,,,Africa,,111
 Monaco,95,,4,,42,49,1,2421,102,,,Europe,,111
-Zambia,88,,3,,42,43,1,5,0.2,2586,141,Africa,,111
+Zambia,89,1,3,,42,44,1,5,0.2,5284,287,Africa,,111
 Liechtenstein,82,,1,,55,26,,2151,26,900,23605,Europe,,111
 Bahamas,80,,11,,22,47,1,203,28,,,NorthAmerica,,111
 Barbados,80,,6,,39,35,4,278,21,1751,6093,NorthAmerica,,111
@@ -201,11 +201,11 @@ Suriname,10,,1,,7,2,,17,2,404,689,SouthAmerica,,111
 MSZaandam,9,,2,,,7,,,,,,,,111
 PapuaNewGuinea,8,,,,,8,,0.9,,604,68,Australia/Oceania,,111
 Mauritania,7,,1,,6,0,,2,0.2,1032,222,Africa,,111
-Bhutan,7,,,,4,3,,9,,9829,12738,Asia,,111
+Bhutan,7,,,,5,2,,9,,9865,12785,Asia,,111
 BritishVirginIslands,6,,1,,3,2,,198,33,,,NorthAmerica,,111
 SouthSudan,6,,,,,6,,0.5,,,,Africa,,111
 WesternSahara,6,,,,5,1,,10,,,,Africa,,111
 CaribbeanNetherlands,5,,,,,5,,191,,110,4195,NorthAmerica,,111
 SaoTomeandPrincipe,4,,,,,4,,18,,19,87,Africa,,111
 Yemen,1,,,,1,0,,0.03,,120,4,Asia,,111
-Total:,3064894,2380,211609,160,922408,1930877,56300,393.2,27.1,,,All,,111
+Total:,3064895,2381,211609,160,922581,1930705,56300,393.2,27.1,,,All,,111
