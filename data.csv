@@ -1,4 +1,4 @@
-Tue Apr 28 11:00:12 ,Recovered,Cases,Critical,1M pop,1M pop,111
+Tue Apr 28 11:30:02 ,Recovered,Cases,Critical,1M pop,1M pop,111
 //source[iColIndex]=isthecellvalue(DATATHATNEEDSTOBESORTED,    .main_table_countries th>* {,,111
 Country  Other,Total Cases,New Cases,Total Deceased,New Deceased,Total Recovered,Active Cases,Serious  Critical,Tot&nbsp Cases 1M pop,Deaths 1M pop,Total Tests,,Continent,,111
 USA,1010507,151,56803,6,139162,814542,14186,3053,172,5696928,17211,NorthAmerica,,111
@@ -61,11 +61,11 @@ Kuwait,3288,,22,,1012,2254,64,770,5,179000,41915,Asia,,111
 Thailand,2938,7,54,2,2652,232,61,42,0.8,178083,2551,Asia,,111
 Kazakhstan,2860,25,25,,725,2110,35,152,1,205560,10948,Asia,,111
 Bahrain,2723,,8,,1218,1497,2,1600,5,117374,68980,Asia,,111
-Hungary,2583,,280,,498,1805,61,267,29,65625,6793,Europe,,111
+Hungary,2649,66,291,11,516,1842,61,274,30,67172,6953,Europe,,111
 Greece,2534,,136,,577,1821,43,243,13,66094,6341,Europe,,111
 Oman,2049,,10,,364,1675,3,401,2,,,Asia,,111
 Croatia,2039,,59,,1166,814,21,497,14,32817,7994,Europe,,111
-Uzbekistan,1904,,8,,892,1004,8,57,0.2,242536,7247,Asia,,111
+Uzbekistan,1924,20,8,,892,1024,8,57,0.2,242536,7247,Asia,,111
 Iraq,1847,,88,,1286,473,,46,2,73782,1834,Asia,,111
 Armenia,1808,,29,,848,931,10,610,10,18547,6259,Asia,,111
 Iceland,1792,,10,,1624,158,1,5251,29,46377,135906,Europe,,111
@@ -142,7 +142,7 @@ Liberia,133,9,16,4,25,92,,26,3,,,Africa,,111
 Madagascar,128,,,,75,53,1,5,,2357,85,Africa,,111
 Ethiopia,124,,3,,50,71,,1,0.03,14588,127,Africa,,111
 Cambodia,122,,,,119,3,1,7,,11721,701,Asia,,111
-TrinidadandTobago,116,,8,,59,49,,83,6,1532,1095,NorthAmerica,,111
+TrinidadandTobago,116,,8,,59,49,,83,6,1572,1123,NorthAmerica,,111
 FrenchGuiana,111,,1,,87,23,,372,3,,,SouthAmerica,,111
 Bermuda,110,,6,,44,60,10,1766,96,1682,27008,NorthAmerica,,111
 CaboVerde,109,,1,,1,107,,196,2,791,1423,Africa,,111
@@ -186,7 +186,7 @@ NewCaledonia,18,,,,17,1,1,63,,3952,13842,Australia/Oceania,,111
 Cura&ccedilao,16,,1,,11,4,,98,6,304,1853,NorthAmerica,,111
 Dominica,16,,,,13,3,,222,,383,5320,NorthAmerica,,111
 Namibia,16,,,,8,8,,6,,704,277,Africa,,111
-SaintKittsandNevis,15,,,,2,13,,282,,260,4887,NorthAmerica,,111
+SaintKittsandNevis,15,,,,2,13,,282,,293,5508,NorthAmerica,,111
 SaintLucia,15,,,,15,0,,82,,446,2429,NorthAmerica,,111
 St.VincentGrenadines,15,,,,8,7,,135,,108,973,NorthAmerica,,111
 Nicaragua,13,,3,,7,3,,2,0.5,,,NorthAmerica,,111
@@ -208,4 +208,4 @@ WesternSahara,6,,,,5,1,,10,,,,Africa,,111
 CaribbeanNetherlands,5,,,,,5,,191,,110,4195,NorthAmerica,,111
 SaoTomeandPrincipe,4,,,,,4,,18,,19,87,Africa,,111
 Yemen,1,,,,1,0,,0.03,,120,4,Asia,,111
-Total:,3065090,2575,211620,171,922844,1930626,56300,393.2,27.1,,,All,,111
+Total:,3065176,2661,211631,182,922862,1930683,56300,393.2,27.2,,,All,,111
