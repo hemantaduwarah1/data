@@ -1,7 +1,7 @@
-Fri May  1 11:30:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
+Fri May  1 12:00:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 //source[iColIndex]=isthecellvalue(DATATHATNEEDSTOBESORTED,    .main_table_countries th>* {,,111
 Country  Other,Total Cases,New Cases,Total Deceased,New Deceased,Total Recovered,Active Cases,Serious  Critical,Tot&nbsp Cases 1M pop,Deaths 1M pop,Total Tests,,Continent,,111
-USA,1095210,187,63861,5,155737,875612,15226,3309,193,6391887,19311,NorthAmerica,,111
+USA,1095304,281,63871,15,155737,875696,15226,3309,193,6391887,19311,NorthAmerica,,111
 Spain,239639,,24543,,137984,77112,2676,5125,525,1455306,31126,Europe,,111
 Italy,205463,,27967,,75945,101551,1694,3398,463,1979217,32735,Europe,,111
 UK,171253,,26771,,N/A,144138,1559,2523,394,901905,13286,Europe,,111
@@ -61,7 +61,7 @@ Kuwait,4024,,26,,1539,2459,66,942,6,179000,41915,Asia,,111
 Algeria,4006,,450,,1779,1777,22,91,10,6500,148,Africa,,111
 Moldova,3897,,116,,1182,2599,237,966,29,11763,2916,Europe,,111
 Luxembourg,3784,,90,,3213,481,23,6045,144,42643,68122,Europe,,111
-Kazakhstan,3402,,25,,866,2511,41,181,1,268534,14301,Asia,,111
+Kazakhstan,3504,102,25,,866,2613,41,187,1,268534,14301,Asia,,111
 Bahrain,3040,,8,,1500,1532,1,1787,5,129694,76220,Asia,,111
 Thailand,2960,6,54,,2719,187,61,42,0.8,178083,2551,Asia,,111
 Hungary,2863,88,323,11,609,1931,49,296,33,76331,7901,Europe,,111
@@ -119,7 +119,7 @@ Maldives,468,,1,,17,450,2,866,2,8008,14815,Asia,,111
 Malta,465,,4,,351,110,1,1053,9,32989,74713,Europe,,111
 Jordan,453,,8,,362,83,5,44,0.8,63737,6247,Asia,,111
 Sudan,442,,31,,39,372,,10,0.7,,,Africa,,111
-Taiwan,429,,6,,322,101,,18,0.3,62844,2639,Asia,,111
+Taiwan,429,,6,,324,99,,18,0.3,63340,2659,Asia,,111
 ElSalvador,424,29,10,,124,290,2,65,2,25492,3930,NorthAmerica,,111
 Jamaica,422,26,8,1,29,385,3,143,3,4439,1499,NorthAmerica,,111
 R&eacuteunion,420,,,,300,120,2,469,,,,Africa,,111
@@ -136,7 +136,7 @@ Paraguay,266,17,10,1,113,143,1,37,1,9454,1325,SouthAmerica,,111
 Rwanda,243,,,,104,139,,19,,9604,741,Africa,,111
 Congo,220,,9,,19,192,,40,2,,,Africa,,111
 Guinea-Bissau,205,,1,,19,185,,104,0.5,1500,762,Africa,,111
-FaeroeIslands,187,,,,184,3,,3827,,6963,142500,Europe,,111
+FaeroeIslands,187,,,,184,3,,3827,,7081,144915,Europe,,111
 Martinique,178,,14,,83,81,5,474,37,,,NorthAmerica,,111
 Guadeloupe,151,,12,,95,44,11,377,30,,,NorthAmerica,,111
 Myanmar,151,1,6,,27,118,,3,0.1,7718,142,Asia,,111
@@ -212,4 +212,4 @@ BritishVirginIslands,6,,1,,3,2,,198,33,,,NorthAmerica,,111
 WesternSahara,6,,,,5,1,,10,,,,Africa,,111
 CaribbeanNetherlands,5,,,,,5,,191,,110,4195,NorthAmerica,,111
 Comoros,1,,,,,1,,1,,,,Africa,,111
-Total:,3308678,4458,234123,293,1042991,2031564,50937,424.5,30.0,,,All,,111
+Total:,3308874,4654,234133,303,1042993,2031748,50937,424.5,30.0,,,All,,111
