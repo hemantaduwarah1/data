@@ -1,4 +1,4 @@
-Fri May  1 11:00:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
+Fri May  1 11:30:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 //source[iColIndex]=isthecellvalue(DATATHATNEEDSTOBESORTED,    .main_table_countries th>* {,,111
 Country  Other,Total Cases,New Cases,Total Deceased,New Deceased,Total Recovered,Active Cases,Serious  Critical,Tot&nbsp Cases 1M pop,Deaths 1M pop,Total Tests,,Continent,,111
 USA,1095210,187,63861,5,155737,875612,15226,3309,193,6391887,19311,NorthAmerica,,111
@@ -79,7 +79,7 @@ Azerbaijan,1804,,24,,1325,455,17,178,2,143079,14112,Asia,,111
 Iceland,1797,,10,,1670,117,,5266,29,48413,141873,Europe,,111
 BosniaandHerzegovina,1757,,69,,727,961,4,536,21,30793,9386,Europe,,111
 Estonia,1689,,52,,249,1388,9,1273,39,52741,39758,Europe,,111
-Bulgaria,1506,,66,,266,1174,40,217,9,45208,6506,Europe,,111
+Bulgaria,1541,35,66,,276,1199,40,222,9,46510,6694,Europe,,111
 Cuba,1501,,61,,681,759,10,133,5,47347,4180,NorthAmerica,,111
 Guinea,1495,,7,,329,1159,,114,0.5,,,Africa,,111
 NewZealand,1479,3,19,,1252,208,1,307,4,139898,29011,Australia/Oceania,,111
@@ -206,10 +206,10 @@ Suriname,10,,1,,8,1,,17,2,404,689,SouthAmerica,,111
 MSZaandam,9,,2,,,7,,,,,,,,111
 Mauritania,8,,1,,6,1,,2,0.2,1032,222,Africa,,111
 PapuaNewGuinea,8,,,,,8,,0.9,,604,68,Australia/Oceania,,111
-Bhutan,7,,,,5,2,,9,,10045,13018,Asia,,111
+Bhutan,7,,,,5,2,,9,,10101,13091,Asia,,111
 Yemen,6,,2,,1,3,,0.2,0.07,120,4,Asia,,111
 BritishVirginIslands,6,,1,,3,2,,198,33,,,NorthAmerica,,111
 WesternSahara,6,,,,5,1,,10,,,,Africa,,111
 CaribbeanNetherlands,5,,,,,5,,191,,110,4195,NorthAmerica,,111
 Comoros,1,,,,,1,,1,,,,Africa,,111
-Total:,3308643,4423,234123,293,1042981,2031539,50937,424.5,30.0,,,All,,111
+Total:,3308678,4458,234123,293,1042991,2031564,50937,424.5,30.0,,,All,,111
