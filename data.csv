@@ -1,4 +1,4 @@
-Sat May  2 12:30:02 ,Recovered,Cases,Critical,1M pop,1M pop,111
+Sat May  2 13:00:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 //source[iColIndex]=isthecellvalue(DATATHATNEEDSTOBESORTED,    .main_table_countries th>* {,,111
 Country  Other,Total Cases,New Cases,Total Deceased,New Deceased,Total Recovered,Active Cases,Serious  Critical,Tot&nbsp Cases 1M pop,Deaths 1M pop,Total Tests,,Continent,,111
 USA,1131492,462,65776,23,161563,904153,16481,3418,199,6699878,20241,NorthAmerica,,111
@@ -68,9 +68,9 @@ Hungary,2942,79,335,12,625,1982,52,305,35,79551,8235,Europe,,111
 Greece,2612,,140,,1374,1098,36,251,13,77251,7412,Europe,,111
 Oman,2447,,11,,495,1941,17,479,2,40459,7923,Asia,,111
 Afghanistan,2335,,68,,310,1957,7,60,2,10593,272,Asia,,111
+Armenia,2273,125,33,,1010,1230,10,767,11,23142,7810,Asia,,111
 Nigeria,2170,,68,,351,1751,2,11,0.3,15759,76,Africa,,111
 Iraq,2153,,94,,1414,645,,54,2,95399,2372,Asia,,111
-Armenia,2148,,33,,977,1138,10,725,11,22177,7484,Asia,,111
 Uzbekistan,2094,8,9,,1212,873,8,63,0.3,242536,7247,Asia,,111
 Croatia,2085,,75,,1421,589,17,508,18,36917,8993,Europe,,111
 Ghana,2074,,17,,212,1845,4,67,0.5,113497,3653,Africa,,111
@@ -94,7 +94,7 @@ HongKong,1040,,4,,859,177,4,139,0.5,154989,20674,Asia,,111
 Senegal,1024,,9,,356,659,1,61,0.5,466,28,Africa,,111
 Tunisia,998,,41,,316,641,24,84,3,23526,1991,Africa,,111
 Honduras,899,95,75,,112,712,10,91,8,3643,368,NorthAmerica,,111
-Latvia,870,,16,,348,506,2,461,8,61120,32404,Europe,,111
+Latvia,871,1,16,,348,507,2,462,8,63102,33455,Europe,,111
 Cyprus,857,,15,,296,546,15,710,12,60536,50139,Asia,,111
 Albania,782,,31,,488,263,4,272,11,8498,2953,Europe,,111
 Kyrgyzstan,769,13,8,,527,234,12,118,1,51472,7889,Asia,,111
@@ -109,7 +109,7 @@ Uruguay,648,,17,,435,196,10,187,5,20554,5917,SouthAmerica,,111
 Guatemala,644,45,16,,72,556,5,36,0.9,7200,402,NorthAmerica,,111
 DRC,604,,32,,75,497,,7,0.4,,,Africa,,111
 Somalia,601,,28,,31,542,2,38,2,,,Africa,,111
-Georgia,582,16,7,,207,368,6,146,2,15904,3987,Asia,,111
+Georgia,582,16,8,1,207,367,6,146,2,15904,3987,Asia,,111
 SanMarino,580,,41,,82,457,5,17094,1208,2386,70319,Europe,,111
 Mayotte,539,,4,,235,300,4,1976,15,3000,10996,Africa,,111
 ChannelIslands,538,,41,,406,91,,3094,236,5342,30725,Europe,,111
@@ -128,7 +128,7 @@ Palestine,353,,2,,76,275,,69,0.4,32200,6312,Asia,,111
 Venezuela,335,,10,,148,177,2,12,0.4,458737,16132,SouthAmerica,,111
 Paraguay,333,67,10,,115,208,5,47,1,10342,1450,SouthAmerica,,111
 Mauritius,332,,10,,312,10,3,261,8,16028,12603,Africa,,111
-Montenegro,322,,7,,233,82,2,513,11,6864,10929,Europe,,111
+Montenegro,322,,7,,240,75,2,513,11,6864,10929,Europe,,111
 IsleofMan,316,,22,,271,23,21,3716,259,3228,37962,Europe,,111
 EquatorialGuinea,315,,1,,9,305,,225,0.7,854,609,Africa,,111
 Gabon,276,,3,,67,206,1,124,1,724,325,Africa,,111
@@ -142,7 +142,7 @@ Liberia,152,,18,,45,89,,30,4,,,Africa,,111
 Guadeloupe,152,,12,,95,45,6,380,30,,,NorthAmerica,,111
 Myanmar,151,,6,,31,114,,3,0.1,8281,152,Asia,,111
 Gibraltar,144,,,,131,13,,4274,,2626,77944,Europe,,111
-Brunei,138,,1,,124,13,2,315,2,13717,31355,Asia,,111
+Brunei,138,,1,,126,11,2,315,2,13924,31828,Asia,,111
 SierraLeone,136,,7,,21,108,,17,0.9,,,Africa,,111
 Ethiopia,133,,3,,66,64,,1,0.03,18754,163,Africa,,111
 Madagascar,132,,,,94,38,1,5,,3228,117,Africa,,111
@@ -212,4 +212,4 @@ BritishVirginIslands,6,,1,,3,2,,198,33,,,NorthAmerica,,111
 CaribbeanNetherlands,6,,,,,6,,229,,110,4195,NorthAmerica,,111
 WesternSahara,6,,,,5,1,,10,,,,Africa,,111
 Comoros,1,,,,,1,,1,,,,Africa,,111
-Total:,3402034,3561,239622,174,1083901,2078511,51366,436.4,30.7,,,All,,111
+Total:,3402160,3687,239623,175,1083943,2078594,51366,436.5,30.7,,,All,,111
