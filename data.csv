@@ -1,4 +1,4 @@
-Sun May  3 17:00:02 ,Recovered,Cases,Critical,1M pop,1M pop,111
+Sun May  3 17:30:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 //source[iColIndex]=isthecellvalue(DATATHATNEEDSTOBESORTED,    .main_table_countries th>* {,,111
 Country  Other,Total Cases,New Cases,Total Deceased,New Deceased,Total Recovered,Active Cases,Serious  Critical,Tot&nbsp Cases 1M pop,Deaths 1M pop,Total Tests,,Continent,,111
 USA,1160996,222,67448,4,173725,919823,16475,3508,204,6931132,20940,NorthAmerica,,111
@@ -55,9 +55,9 @@ SouthAfrica,6336,,123,,2549,3664,36,107,2,230686,3890,Africa,,111
 Malaysia,6298,122,105,2,4413,1780,27,195,3,195833,6051,Asia,,111
 Egypt,6193,,415,,1522,4256,,61,4,90000,879,Africa,,111
 Finland,5254,78,230,10,3000,2024,49,948,42,102300,18463,Europe,,111
+Kuwait,4983,364,38,5,1776,3169,72,1167,9,179000,41915,Asia,,111
 Morocco,4880,151,174,1,1424,3282,1,132,5,40961,1110,Africa,,111
 Argentina,4681,,237,,1320,3124,157,104,5,63866,1413,SouthAmerica,,111
-Kuwait,4619,,33,,1703,2883,69,1082,8,179000,41915,Asia,,111
 Algeria,4295,,459,,1872,1964,22,98,10,6500,148,Africa,,111
 Moldova,4052,,124,,1334,2594,237,1004,31,11763,2916,Europe,,111
 Kazakhstan,3857,,25,,995,2837,41,205,1,282862,15065,Asia,,111
@@ -110,7 +110,7 @@ Somalia,671,,31,,34,606,2,42,2,,,Africa,,111
 BurkinaFaso,652,,44,,535,73,,31,2,,,Africa,,111
 Uruguay,652,,17,,440,195,10,188,5,21164,6093,SouthAmerica,,111
 Sudan,592,,41,,52,499,,14,0.9,,,Africa,,111
-Georgia,589,7,8,,215,366,6,148,2,15904,3987,Asia,,111
+Georgia,589,7,9,1,221,359,6,148,2,15904,3987,Asia,,111
 SanMarino,582,2,41,,86,455,5,17152,1208,2451,72235,Europe,,111
 Mali,544,,26,,206,312,,27,1,2172,107,Africa,,111
 ChannelIslands,543,,41,,406,96,,3123,236,5342,30725,Europe,,111
@@ -213,4 +213,4 @@ BritishVirginIslands,6,,1,,3,2,,198,33,,,NorthAmerica,,111
 CaribbeanNetherlands,6,,,,,6,,229,,110,4195,NorthAmerica,,111
 WesternSahara,6,,,,5,1,,10,,,,Africa,,111
 Comoros,3,,,,,3,,3,,,,Africa,,111
-Total:,3502592,21243,245076,413,1128879,2128637,50736,449.3,31.4,,,All,,111
+Total:,3502956,21607,245082,419,1128958,2128916,50739,449.4,31.4,,,All,,111
