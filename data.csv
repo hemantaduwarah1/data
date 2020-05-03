@@ -1,4 +1,4 @@
-Sun May  3 15:00:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
+Sun May  3 15:30:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 //source[iColIndex]=isthecellvalue(DATATHATNEEDSTOBESORTED,    .main_table_countries th>* {,,111
 Country  Other,Total Cases,New Cases,Total Deceased,New Deceased,Total Recovered,Active Cases,Serious  Critical,Tot&nbsp Cases 1M pop,Deaths 1M pop,Total Tests,,Continent,,111
 USA,1160840,66,67448,4,173725,919667,16475,3507,204,6931132,20940,NorthAmerica,,111
@@ -65,9 +65,9 @@ Luxembourg,3812,,92,,3318,402,23,6090,147,47460,75817,Europe,,111
 Bahrain,3284,,8,,1568,1708,1,1930,5,139354,81897,Asia,,111
 Hungary,2998,56,340,5,629,2029,51,310,35,82010,8489,Europe,,111
 Thailand,2969,3,54,,2739,176,61,43,0.8,178083,2551,Asia,,111
+Afghanistan,2704,235,85,13,345,2274,7,69,2,11068,284,Asia,,111
 Greece,2620,,143,,1374,1103,37,251,14,78207,7503,Europe,,111
 Oman,2568,85,12,,750,1806,17,503,2,40459,7923,Asia,,111
-Afghanistan,2469,,72,,331,2066,7,63,2,11068,284,Asia,,111
 Nigeria,2388,,85,,385,1918,2,12,0.4,16588,80,Africa,,111
 Armenia,2386,113,35,2,1035,1316,10,805,12,24177,8159,Asia,,111
 Iraq,2219,,95,,1473,651,,55,2,98253,2443,Asia,,111
@@ -96,8 +96,8 @@ Honduras,1010,111,76,1,116,818,10,102,8,4669,471,NorthAmerica,,111
 Tunisia,1009,,42,,323,644,25,85,4,24055,2035,Africa,,111
 Latvia,879,8,16,,348,515,4,466,8,64245,34061,Europe,,111
 Cyprus,864,,15,,296,553,15,716,12,62267,51573,Asia,,111
+Albania,795,6,31,,531,233,7,276,11,8866,3081,Europe,,111
 Kyrgyzstan,795,26,10,2,564,221,12,122,2,51472,7889,Asia,,111
-Albania,789,,31,,519,239,4,274,11,8669,3012,Europe,,111
 Andorra,747,,44,,472,231,17,9668,569,1673,21653,Europe,,111
 Niger,736,,35,,507,194,,30,1,5271,218,Africa,,111
 Lebanon,733,,25,,197,511,43,107,4,37880,5550,Asia,,111
@@ -213,4 +213,4 @@ BritishVirginIslands,6,,1,,3,2,,198,33,,,NorthAmerica,,111
 CaribbeanNetherlands,6,,,,,6,,229,,110,4195,NorthAmerica,,111
 WesternSahara,6,,,,5,1,,10,,,,Africa,,111
 Comoros,3,,,,,3,,3,,,,Africa,,111
-Total:,3497910,16561,244975,312,1126707,2126228,50843,448.7,31.4,,,All,,111
+Total:,3498151,16802,244988,325,1126733,2126430,50846,448.8,31.4,,,All,,111
