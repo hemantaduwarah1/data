@@ -1,7 +1,7 @@
-Sun May  3 19:00:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
+Sun May  3 19:30:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 //source[iColIndex]=isthecellvalue(DATATHATNEEDSTOBESORTED,    .main_table_countries th>* {,,111
 Country  Other,Total Cases,New Cases,Total Deceased,New Deceased,Total Recovered,Active Cases,Serious  Critical,Tot&nbsp Cases 1M pop,Deaths 1M pop,Total Tests,,Continent,,111
-USA,1162049,1275,67492,48,173910,920647,16475,3511,204,6937747,20960,NorthAmerica,,111
+USA,1162383,1609,67505,61,173910,920968,16475,3512,204,6938845,20963,NorthAmerica,,111
 Spain,245567,,25100,,146233,74234,2386,5252,537,1528833,32699,Europe,,111
 Italy,209328,,28710,,79914,100704,1539,3462,475,2108837,34879,Europe,,111
 UK,182260,,28131,,N/A,153785,1559,2685,414,1129907,16644,Europe,,111
@@ -103,7 +103,7 @@ Lebanon,737,4,25,,200,512,43,108,4,39238,5749,Asia,,111
 Niger,736,,35,,507,194,,30,1,5271,218,Africa,,111
 CostaRica,733,,6,,372,355,6,144,1,13632,2676,NorthAmerica,,111
 DiamondPrincess,712,,13,,645,54,4,,,,,,,111
-SriLanka,705,3,7,,182,516,1,33,0.3,25206,1177,Asia,,111
+SriLanka,706,4,7,,182,517,1,33,0.3,25206,1177,Asia,,111
 Guatemala,688,44,17,1,72,599,5,38,0.9,7200,402,NorthAmerica,,111
 DRC,674,,33,,75,566,,8,0.4,,,Africa,,111
 Somalia,671,,31,,34,606,2,42,2,,,Africa,,111
@@ -115,7 +115,7 @@ SanMarino,582,2,41,,86,455,5,17152,1208,2451,72235,Europe,,111
 Mali,544,,26,,206,312,,27,1,2172,107,Africa,,111
 ChannelIslands,543,,41,,406,96,,3123,236,5342,30725,Europe,,111
 Mayotte,539,,4,,235,300,4,1976,15,3000,10996,Africa,,111
-Maldives,519,,1,,18,500,2,960,2,8008,14815,Asia,,111
+Maldives,527,8,1,,18,508,2,975,2,8008,14815,Asia,,111
 ElSalvador,490,44,11,,154,325,3,76,2,28596,4409,NorthAmerica,,111
 Tanzania,480,,16,,167,297,7,8,0.3,,,Africa,,111
 Malta,477,9,4,,392,81,1,1080,9,36204,81994,Europe,,111
@@ -213,4 +213,4 @@ BritishVirginIslands,6,,1,,3,2,,198,33,,,NorthAmerica,,111
 CaribbeanNetherlands,6,,,,,6,,229,,110,4195,NorthAmerica,,111
 WesternSahara,6,,,,5,1,,10,,,,Africa,,111
 Comoros,3,,,,,3,,3,,,,Africa,,111
-Total:,3507442,26093,245241,578,1130122,2132079,50607,450.0,31.5,,,All,,111
+Total:,3507785,26436,245254,591,1130122,2132409,50607,450.0,31.5,,,All,,111
