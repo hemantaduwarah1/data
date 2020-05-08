@@ -1,4 +1,4 @@
-Fri May  8 10:00:02 ,Recovered,Cases,Critical,1M pop,1M pop,111
+Fri May  8 10:30:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 //source[iColIndex]=isthecellvalue(DATATHATNEEDSTOBESORTED,    .main_table_countries th>* {,,111
 Country  Other,Total Cases,New Cases,Total Deceased,New Deceased,Total Recovered,Active Cases,Serious  Critical,Tot&nbsp Cases 1M pop,Deaths 1M pop,Total Tests,,Continent,,111
 USA,1292623,,76928,,217250,998445,16995,3905,232,8297562,25068,NorthAmerica,,111
@@ -18,7 +18,7 @@ Turkey,133721,,3641,,82984,47096,1260,1586,43,1265119,15000,Asia,,111
 Iran,103135,,6486,,82744,13905,2728,1228,77,544702,6485,Asia,,111
 Canada,64922,,4408,,28972,31542,502,1720,117,1005294,26636,NorthAmerica,,111
 Peru,58526,,1627,,18388,38511,722,1775,49,448020,13588,SouthAmerica,,111
-India,56383,32,1889,,16776,37718,,41,1,1437788,1042,Asia,,111
+India,56409,58,1890,1,16790,37729,,41,1,1437788,1042,Asia,,111
 Belgium,51420,,8415,,12980,30025,538,4437,726,493325,42566,Europe,,111
 Netherlands,41774,,5288,,N/A,36236,584,2438,309,249655,14570,Europe,,111
 SaudiArabia,33731,,219,,7798,25714,145,969,6,405685,11653,Asia,,111
@@ -68,7 +68,7 @@ Afghanistan,3563,,106,,468,2989,7,92,3,14389,370,Asia,,111
 Nigeria,3526,,107,,601,2818,4,17,0.5,22492,109,Africa,,111
 Hungary,3150,,383,,801,1966,50,326,40,94036,9734,Europe,,111
 Ghana,3091,,18,,303,2770,4,99,0.6,135902,4374,Africa,,111
-Thailand,2992,,55,,2772,165,61,43,0.8,227860,3264,Asia,,111
+Thailand,3000,8,55,,2784,161,61,43,0.8,227860,3264,Asia,,111
 Oman,2958,,15,,980,1963,17,579,3,50000,9791,Asia,,111
 Armenia,2884,,42,,1185,1657,10,973,14,28017,9455,Asia,,111
 Greece,2678,,148,,1374,1156,33,257,14,90043,8639,Europe,,111
@@ -214,4 +214,4 @@ BritishVirginIslands,7,,1,,3,3,,232,33,132,4366,NorthAmerica,,111
 Bhutan,7,,,,5,2,,9,,11492,14894,Asia,,111
 CaribbeanNetherlands,6,,,,,6,,229,,110,4195,NorthAmerica,,111
 WesternSahara,6,,,,5,1,,10,,,,Africa,,111
-Total:,3917619,3975,270720,294,1344152,2302747,48958,502.6,34.7,,,All,,111
+Total:,3917653,4009,270721,295,1344178,2302754,48958,502.6,34.7,,,All,,111
