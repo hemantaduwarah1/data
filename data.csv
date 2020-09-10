@@ -1,4 +1,4 @@
-Thu Sep 10 16:30:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
+Thu Sep 10 17:00:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 //source[iColIndex]=isthecellvalue(DATATHATNEEDSTOBESORTED,//source[iColIndex]=isthecellvalue(DATATHATNEEDSTOBESORTED,//source[iColIndex]=isthecellvalue(DATATHATNEEDSTOBESORTED,    .main_table_countries th>* {,,111
 #,Country  Other,Total Cases,New Cases,Total Deceased,New Deceased,Total Recovered,New Recovered,Active Cases,Serious  Critical,Tot&nbsp Cases 1M pop,Deaths 1M pop,Total Tests,,Population,Continent,<i><div>,,111
 ,,721,,15,,651,,55,4,,,,,,,,,,,,111
@@ -92,7 +92,7 @@ Thu Sep 10 16:30:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 78,IvoryCoast,18815,,119,,17770,,926,,710,4,136441,5149,26498813,Africa,1408,,111
 79,Denmark,18607,,628,,15990,,1989,5,3210,108,2790136,481376,5796169,Europe,312,,111
 80,Bulgaria,17435,,702,,12474,,4259,60,2513,101,451448,65069,6938023,Europe,398,,111
-81,Madagascar,15520,,206,,14243,,1071,53,558,7,62150,2234,27822054,Africa,1793,,111
+81,Madagascar,15624,104,208,2,14295,52,1121,48,562,7,62826,2258,27822054,Africa,1781,,111
 82,NorthMacedonia,15293,,634,,12754,,1905,4,7341,304,160180,76886,2083357,Europe,136,,111
 83,Senegal,14102,,293,,10176,,3633,36,838,17,154258,9168,16825007,Africa,1193,,111
 84,Sudan,13437,,833,,6730,,5874,,305,19,,,44038896,Africa,3277,,111
@@ -227,4 +227,4 @@ Thu Sep 10 16:30:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 213,MSZaandam,9,,2,,,,7,,,,,,,,,,111
 214,Anguilla,3,,,,3,,0,,200,,928,61747,15029,NorthAmerica,5010,,111
 ,Total:,721,,15,,651,,55,4,,,,,,,,,,,111
-,Total:,28056120,41289,908651,1347,20122196,30499,7025273,60545,3599.3,116.6,,,,All,,,,,,111
+,Total:,28056224,41393,908653,1349,20122248,30551,7025323,60540,3599.4,116.6,,,,All,,,,,,111
