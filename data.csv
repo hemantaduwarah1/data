@@ -1,4 +1,4 @@
-Thu Sep 10 16:00:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
+Thu Sep 10 16:30:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 //source[iColIndex]=isthecellvalue(DATATHATNEEDSTOBESORTED,//source[iColIndex]=isthecellvalue(DATATHATNEEDSTOBESORTED,//source[iColIndex]=isthecellvalue(DATATHATNEEDSTOBESORTED,    .main_table_countries th>* {,,111
 #,Country  Other,Total Cases,New Cases,Total Deceased,New Deceased,Total Recovered,New Recovered,Active Cases,Serious  Critical,Tot&nbsp Cases 1M pop,Deaths 1M pop,Total Tests,,Population,Continent,<i><div>,,111
 ,,721,,15,,651,,55,4,,,,,,,,,,,,111
@@ -13,7 +13,7 @@ Thu Sep 10 16:00:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 9,Spain,543379,,29628,,N/A,N/A,N/A,1051,11621,634,9987326,213595,46758325,Europe,86,,111
 10,Argentina,512293,,10658,,382490,,119145,2719,11315,235,1458619,32217,45275373,SouthAmerica,88,,111
 11,Chile,427027,,11702,,399555,,15770,942,22302,611,2691374,140558,19147740,SouthAmerica,45,,111
-12,Iran,393425,,22669,,339111,,31645,3735,4673,269,3431646,40757,84197490,Asia,214,,111
+12,Iran,395488,2063,22798,129,340842,1731,31848,3728,4697,271,3483727,41376,84197490,Asia,213,,111
 13,UK,355219,,41594,,N/A,N/A,N/A,80,5227,612,17619897,259287,67955088,Europe,191,,111
 14,France,344101,,30794,,88524,,224783,599,5269,472,8500000,130165,65301684,Europe,190,,111
 15,Bangladesh,332970,1892,4634,41,233550,2746,94786,,2018,28,1690011,10242,165003705,Asia,496,,111
@@ -153,7 +153,7 @@ Thu Sep 10 16:00:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 139,Guadeloupe,2287,,23,,336,,1928,7,5716,57,33042,82577,400137,NorthAmerica,175,,111
 140,Guinea-Bissau,2245,,38,,1127,,1080,5,1136,19,,,1976610,Africa,880,,111
 141,Benin,2242,,40,,1793,,409,,184,3,131073,10760,12181574,Africa,5433,,111
-142,Malta,2162,,14,,1760,,388,2,4894,32,207185,468986,441772,Europe,204,,111
+142,Malta,2204,42,14,,1803,43,387,2,4989,32,209142,473416,441772,Europe,200,,111
 143,Iceland,2153,,10,,2067,,76,,6301,29,229999,673159,341671,Europe,159,,111
 144,Botswana,2126,,9,,493,,1624,1,901,4,133971,56755,2360494,Africa,1110,,111
 145,SierraLeone,2067,,72,,1622,,373,,258,9,,,8007267,Africa,3874,,111
@@ -212,10 +212,10 @@ Thu Sep 10 16:00:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 198,SaintLucia,27,,,,26,,1,,147,,6130,33353,183790,NorthAmerica,6807,,111
 199,Timor-Leste,27,,,,25,,2,,20,,5146,3889,1323149,Asia,49006,,111
 200,NewCaledonia,26,,,,25,,1,,91,,13043,45601,286024,Australia/Oceania,11001,,111
-201,Grenada,24,,,,24,,0,,213,,6252,55512,112624,NorthAmerica,4693,,111
-202,Dominica,22,,,,18,,4,,305,,2077,28839,72021,NorthAmerica,3274,,111
-203,Laos,22,,,,21,,1,,3,,43179,5919,7295562,Asia,331616,,111
-204,CaribbeanNetherlands,21,,,,7,,14,,799,,900,34260,26270,NorthAmerica,1251,,111
+201,CaribbeanNetherlands,25,4,,,7,,18,,952,,900,34260,26270,NorthAmerica,1051,,111
+202,Dominica,24,2,,,18,,6,,333,,2077,28839,72021,NorthAmerica,3001,,111
+203,Grenada,24,,,,24,,0,,213,,6252,55512,112624,NorthAmerica,4693,,111
+204,Laos,22,,,,21,,1,,3,,43179,5919,7295562,Asia,331616,,111
 205,St.Barth,21,,,,13,,8,,2125,,2075,209956,9883,NorthAmerica,471,,111
 206,SaintKittsandNevis,17,,,,17,,0,,319,,1897,35610,53272,NorthAmerica,3134,,111
 207,Greenland,14,,,,14,,0,,247,,7183,126486,56789,NorthAmerica,4056,,111
@@ -223,8 +223,8 @@ Thu Sep 10 16:00:01 ,Recovered,Cases,Critical,1M pop,1M pop,111
 209,FalklandIslands,13,,,,13,,0,,3716,,2256,644940,3498,SouthAmerica,269,,111
 210,VaticanCity,12,,,,12,,0,,14981,,,,801,Europe,67,,111
 211,WesternSahara,10,,1,,8,,1,,17,2,,,600050,Africa,60005,,111
-212,MSZaandam,9,,2,,,,7,,,,,,,,,,111
-213,SaintPierreMiquelon,9,,,,5,,4,,1555,,1051,181583,5788,NorthAmerica,643,,111
+212,SaintPierreMiquelon,10,1,,,5,,5,,1728,,1051,181583,5788,NorthAmerica,579,,111
+213,MSZaandam,9,,2,,,,7,,,,,,,,,,111
 214,Anguilla,3,,,,3,,0,,200,,928,61747,15029,NorthAmerica,5010,,111
 ,Total:,721,,15,,651,,55,4,,,,,,,,,,,111
-,Total:,28054008,39177,908522,1218,20120422,28725,7025064,60552,3599.1,116.6,,,,All,,,,,,111
+,Total:,28056120,41289,908651,1347,20122196,30499,7025273,60545,3599.3,116.6,,,,All,,,,,,111
